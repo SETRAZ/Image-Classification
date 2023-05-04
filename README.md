@@ -10,4 +10,4 @@ Generation of 15 models, each with varying one of the parameters:
 2) Number of hidden layers: 2 or 3
 3) Number of Neurons per hidden layer: 100 or 150
 
-For more information see [report]().
+For more information see [report](https://github.com/SETRAZ/Image-Classification/blob/main/Image%20Classification%20Report.pdf).
