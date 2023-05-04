@@ -1,4 +1,4 @@
-# Image-Classification using Keras
+# Image Classification using Keras
 A basic Neural Network that can classify images of handwritten digits.
 
 ## Dataset:
